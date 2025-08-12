@@ -1,0 +1,16 @@
+{
+  "apiID": "package_cc033b__c__function_aaditlsudt6ew",
+  "apiName": "go0812lci",
+  "label": {
+    "zh_CN": "go 0812 lci",
+    "en_US": "go 0812 lci"
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
